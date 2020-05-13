@@ -1,1 +1,2 @@
-I'm testing brnaching on github.
+I'm testing brnaching on github. 
+Great, it works.
